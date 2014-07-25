@@ -156,7 +156,7 @@ CONTACT
   background-image: url('../img/phone.png');
 }
 
-.contact-info li.mail a {
+.contact-info li.email a {
   background-image: url('../img/mail.png');
 }
 
