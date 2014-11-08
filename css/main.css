@@ -160,6 +160,10 @@ CONTACT
   background-image: url('../img/mail.png');
 }
 
+.contact-info li.twitter a {
+  background-image: url('../img/twitter.png');
+}
+
 /*******************
 COLORS
 *******************/
